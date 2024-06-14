@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PubConsent",
-            url: "https://cdn.pubtech.ai/pubconsent-sdk-for-publishers/pubconsent-1.0.1-xcframework.zip",
-            checksum: "b5c6945d128548846b122e2000dae3e5fc8c83fcaf42a18a105c724c7f61e3fb"
+            url: "https://cdn.pubtech.ai/pubconsent-sdk-for-publishers/pubconsent-1.1.0-xcframework.zip",
+            checksum: "a79a83a823c301b7aac0a584bc3e0251fa03de5c0d50b2f2ab7a96797199b2fe"
         )
     ]
 )
